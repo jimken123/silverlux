@@ -1,8 +1,8 @@
 ---
 templateKey: 'blog-post'
 title: 'Lovehearts'
-layout: post
 date: 2024-08-09
+featuredpost: true
 ---
 
 Some lovely lovehearts.
