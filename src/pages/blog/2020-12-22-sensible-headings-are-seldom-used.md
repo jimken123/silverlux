@@ -1,6 +1,6 @@
 ---
 templateKey: 'blog-post'
-title: 'Sensible headings are seldom used'
+title: 'seldom headings are seldom used'
 date: 2020-12-22T15:04:10.000Z
 featuredpost: true
 featuredimage: /img/image1.png
