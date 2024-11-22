@@ -3,6 +3,12 @@ templateKey: 'blog-post'
 title: 'Lovehearts'
 date: 2024-08-09
 featuredpost: true
+featuredimage: /img/image1.png
+description: Quis kfhdslf reprehenderit quos
+tags:
+  - how to
+  - tech
+  - programming
 ---
 
 Some lovely lovehearts.
